@@ -23,9 +23,9 @@ Se aclara que para mantener la simplicidad del ejemplo no se contemplan manejar 
 <div style="padding: 10px; border: 1px solid #ccc;">
 
 - [Historia De Usuario](#Historia-De-Usario)
-- [Aproximacion caso de uso](#Aproximación-caso-de-uso)
+- [Aproximación caso de uso](#Aproximación-caso-de-uso)
 - [Diagrama de flujo](#Diagrama-de-flujo)
-- [Seudocodigo](#Pseudocódigo)
+- [Pseudocódigo](#Pseudocódigo)
 - [Código](#Código)
 
 </div>
@@ -37,8 +37,6 @@ Se aclara que para mantener la simplicidad del ejemplo no se contemplan manejar 
 
 
 <div style="padding: 10px; border: 1px solid #ccc;">
-    <link>https://danielortega.atlassian.net</link>
-    <title>[MEM-2] HU_Creación proyecto </title>
     <link>https://danielortega.atlassian.net/browse/MEM-2</link>
     <br></br>
     <description>
@@ -184,8 +182,8 @@ flowchart TD;
 <br></br>
 
 ## Código
-| Estructurado |  |
-|----|----|
+| Estructurado |  
+|----|
 | [VER Codigo](/Java/Project.java)  
 
 
