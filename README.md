@@ -37,8 +37,6 @@ Se aclara que para mantener la simplicidad del ejemplo no se contemplan manejar 
 
 
 <div style="padding: 10px; border: 1px solid #ccc;">
-    <link>https://danielortega.atlassian.net</link>
-    <title>[MEM-2] HU_Creación proyecto </title>
     <link>https://danielortega.atlassian.net/browse/MEM-2</link>
     <br></br>
     <description>
