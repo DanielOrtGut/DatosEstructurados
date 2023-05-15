@@ -19,7 +19,7 @@ Se aclara que para mantener la simplicidad del ejemplo no se contemplan manejar 
 
 <br></br>
 
-## Menu
+## Menú
 <div style="padding: 10px; border: 1px solid #ccc;">
 
 - [Historia De Usuario](#Historia-De-Usario)
@@ -120,7 +120,7 @@ flowchart TD;
 <br></br>
 
 ## Pseudocódigo 
-<div style="padding: 1px; border: 1px solid #ccc;">
+<div style="padding: 10px; border: 1px solid #ccc;">
     
     Inicio
     Definir una lista de productos con sus precios y tipos (SSD o HDD)
